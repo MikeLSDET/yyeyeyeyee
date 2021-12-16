@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 8087000000,
+              "duration": 22202000000,
               "status": "passed"
             },
             "line": 4,
@@ -24,7 +24,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-12-11T18:33:45.616Z",
+        "start_timestamp": "2021-12-16T00:18:14.884Z",
         "line": 30,
         "name": "Create dynamic scenario",
         "description": "",
@@ -34,7 +34,7 @@
         "steps": [
           {
             "result": {
-              "duration": 17000000,
+              "duration": 60000000,
               "status": "passed"
             },
             "line": 31,
